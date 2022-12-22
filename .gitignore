@@ -1,0 +1,6 @@
+# editor and IDE paraphernalia
+.vscode
+.idea
+*.swp
+*.swo
+*~
